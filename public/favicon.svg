@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="120" fill="#0F4C81"/>
+  <!-- Stylized 'W' representing software architecture -->
+  <path d="M120 180L200 400L256 280L312 400L392 180" stroke="white" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Integrated Lightning Bolt representing Power Systems -->
+  <path d="M256 100L220 200H292L256 320" stroke="#2563EB" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Subtle brackets hint -->
+  <path d="M80 220C80 220 50 256 80 292" stroke="white" stroke-width="20" stroke-linecap="round" opacity="0.3"/>
+  <path d="M432 220C432 220 462 256 432 292" stroke="white" stroke-width="20" stroke-linecap="round" opacity="0.3"/>
+</svg>

@@ -1,0 +1,157 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables files
+.env
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# parcel-bundler var/cache directory (https://parceljs.org/usage.html#parameters)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+out
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+# Comment the line below if you use the ESLint plugin
+# public
+
+# vue-cli build objects
+dist/
+dist-ssr/
+*.spec.js.snap
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VS Code versions used for testing VS Code extensions
+.vscode-test
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# IDE - VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/code-snippets
+
+# IDE - IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.ini
+*.swp
+*.swo
+
+# Project specific
+/private/
+/public/Certificates/*.pdf
+/public/Certificates/*.jpg
+/public/Certificates/*.png
+/public/Certificates/*.pdf
+/public/Certificates/*.ini
+/public/Certificates/desktop.ini
+
+# Deployment
+/dist
+/dist-ssr
+/private/Certificates
+private/Certificates/Cert_AI_Business_Strategy.pdf
+private/Certificates/Cert_AI_Concepts.pdf
+private/Certificates/Cert_AI_Ethics.pdf
+private/Certificates/Cert_AI_Literacy.pdf
+private/Certificates/Cert_AI_Predictive_Models.pdf
+private/Certificates/Cert_AI_Prompting.pdf
+private/Certificates/Cert_AI_Workflows.pdf
+private/Certificates/Cert_CSM.pdf
+private/Certificates/Cert_DevSecOps.pdf
+private/Certificates/Cert_Generative_AI_Essentials.pdf
+private/Certificates/Cert_Java_OOP.pdf
+private/Certificates/Cert_MS_Copilot.pdf
+private/Certificates/Cert_Responsible_AI.pdf
+private/Certificates/Cert_What_Is_GenAI.pdf
+private/Certificates/desktop.ini
+private/Certificates/nse_ef.jpg
+private/CV_Syed_Abdul_Wajid_Mar_2026.md
+private/Profile (3).pdf
+private/resume.pdf
+private/skills.pdf
